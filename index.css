@@ -43,8 +43,8 @@ a {
 }
 
 .main-body{
-  min-height:70vh;
-  background:linear-gradient(0deg, rgba(10, 10, 10, 0.205), rgba(19, 18, 18, 0.239)), url(./assets/bg.jpg);
+  min-height:80vh;
+  background:linear-gradient(0deg, rgba(10, 10, 10, 0.441), rgba(12, 12, 12, 0.596)), url(./assets/dsc-bg.jpeg);
   background-size:cover;
   /* clip-path: circle(65.4% at 50% 29%); */
   padding-top: 80px !important;
