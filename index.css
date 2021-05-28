@@ -13,28 +13,33 @@ body{
 }
 
 h1, h2, h3, h4, h5, h6{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Source Code Pro', monospace;
     font-style: normal;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 60px;
     line-height: 24px;
-    color: #333333;
+    /* color: #333333; */
 }
 
 p{
-    font-family: "Roboto";
+    font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
+    /* font-size: 16px; */
     line-height: 24px;
     color: rgba(51, 51, 51, 0.9);
-    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
 }
 
 a {
     text-decoration: none !important;
     color: #fff !important;
     outline: none !important;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn{
+    font-family: 'Source Code Pro', monospace;
 }
 
 .main-body{
